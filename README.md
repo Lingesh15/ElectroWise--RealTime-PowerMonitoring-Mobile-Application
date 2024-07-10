@@ -17,15 +17,7 @@ This project is a comprehensive mobile application designed for real-time power 
 
 ## Pages
 
-<div style="display: flex;">
-    <img src="https://github.com/Lingesh15/RealTime-Flutter-Application/assets/93930313/25d65a10-274b-4249-ab35-20f31ae90f97" alt="Login" width="20%"  height="40%" style="margin: 5px;">
-    <img src="https://github.com/Lingesh15/RealTime-Flutter-Application/assets/93930313/2159351a-dc3e-4e09-99b0-f4ab31cfa2e8" alt="Signup" width="20%" height="20%" style="margin: 5px;">
-    <img src="https://github.com/Lingesh15/RealTime-Flutter-Application/assets/93930313/4f9793fb-2ea2-4b19-b5b0-30f121395939" alt="Homepage" width="20%" height="20%" style="margin: 5px;">
-    <img src="https://github.com/Lingesh15/RealTime-Flutter-Application/assets/93930313/02770a55-5d02-4d2a-a06b-78f7edc1f994" alt="Bill Page" width="20%" height="20%" style="margin: 5px;">
-</div>
-
-
-
+![Screenshot 2024-07-10 155641](https://github.com/Lingesh15/RealTime-PowerMonitoring-Mobile-Application/assets/93930313/df3aa8bd-3df4-4693-99b8-4e3b459b0986)
 
 
 
